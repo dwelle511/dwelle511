@@ -1,4 +1,4 @@
-## welcome
+## welcome to my page
 
 ![My Project Status](https://img.shields.io/badge/Status-Awesome-blue?style=for-the-badge)
 
@@ -14,3 +14,8 @@ $${\color{red}Important\spaceNote}$$
 @echo off
 ECHO Hello, World!
 PAUSE
+
+
+code i use
+------
+![](https://share.google/images/WZfZQKtBb9nuOdRoB-Awesome-blue?style=for-the-badge)
