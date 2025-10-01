@@ -22,4 +22,4 @@ PAUSE
 
 
 ![my language](https://share.google/images/WZfZQKtBb9nuOdRoB/)
-[tensor](https://skillicons.dev/icons?i=all)
+![My Skills](https://skillicons.dev/icons?i=all)
