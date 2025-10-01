@@ -14,10 +14,11 @@ $${\color{red}Important\spaceNote}$$
 @echo off
 ECHO Hello, World!
 PAUSE
+```
+---
 
-'''
 
-code i use
-------
+### code i use
+
 
 ![](https://share.google/images/WZfZQKtBb9nuOdRoB-Awesome-blue?style=for-the-badge)
