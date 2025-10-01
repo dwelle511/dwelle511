@@ -21,5 +21,4 @@ PAUSE
 ### code i use
 
 
-![my language](https://share.google/images/WZfZQKtBb9nuOdRoB/)
-![My Skills](https://github.com/tandpfun/skill-icons/raw/main/icons/Eclipse-Dark.svg)
+<code>python</code>
