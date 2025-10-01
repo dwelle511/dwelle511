@@ -22,4 +22,4 @@ PAUSE
 
 
 ![my language](https://share.google/images/WZfZQKtBb9nuOdRoB/)
-![My Skills]([https://skillicons.dev/icons?i=all](https://github.com/tandpfun/skill-icons/raw/main/icons/Eclipse-Dark.svg))
+![My Skills](https://github.com/tandpfun/skill-icons/raw/main/icons/Eclipse-Dark.svg)
