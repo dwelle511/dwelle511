@@ -4,7 +4,7 @@
 
 $${\color{red}Important\spaceNote}$$
 
-  oss
+
 :warning: Warning: Check the dependencies.
 :white_check_mark: Success! All tests passed.
 :star2: Cool Project :star2:
