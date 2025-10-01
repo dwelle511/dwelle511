@@ -10,4 +10,7 @@ $${\color{red}Important\spaceNote}$$
 :star2: Cool Project :star2:
 :bulb: Tip: Use the latest version.
 
-
+```batch
+@echo off
+ECHO Hello, World!
+PAUSE
