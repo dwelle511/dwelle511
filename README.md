@@ -20,5 +20,5 @@ PAUSE
 
 ### code i use
 
+`python`.
 
-<code>python</code>
