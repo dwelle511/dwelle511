@@ -9,3 +9,4 @@ $${\color{red}Important\spaceNote}$$
 :star2: Cool Project :star2:
 :bulb: Tip: Use the latest version.
 
+<code>diff<br>+ This text is green (addition)<br></code>
