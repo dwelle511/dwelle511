@@ -21,4 +21,4 @@ PAUSE
 ### code i use
 
 
-![my language](https://share.google/images/WZfZQKtBb9nuOdRoB)
+![my language](https://share.google/images/WZfZQKtBb9nuOdRoB/)
