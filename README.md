@@ -21,4 +21,4 @@ PAUSE
 ### code i use
 
 
-![my language](https://share.google/images/WZfZQKtBb9nuOdRoB-Awesome-blue?style=for-the-badge)
+![my language](https://share.google/images/WZfZQKtBb9nuOdRoB)
