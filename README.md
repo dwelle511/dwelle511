@@ -2,7 +2,7 @@
 
 ![My Project Status](https://img.shields.io/badge/Status-Awesome-blue?style=for-the-badge)
 
-$${\color{red}Important\spaceNote}$$
+$${\color{red}Hello.Nice to meet you.}$$
 
 
 :warning: Warning: Check the dependencies.
